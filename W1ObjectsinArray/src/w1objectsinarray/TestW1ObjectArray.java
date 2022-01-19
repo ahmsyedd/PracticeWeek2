@@ -12,6 +12,7 @@ public class TestW1ObjectArray {
 
     /**
      * @param args the command line arguments
+     * some change
      */
     public static void main(String[] args) 
     {
